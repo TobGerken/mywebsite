@@ -1,0 +1,10 @@
+---
+title: "Section 1"
+---
+
+# Some text
+
+Insert an image 
+![testimage](./images/openscapes_hex.png)
+
+[about](about.qmd)
