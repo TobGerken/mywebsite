@@ -12,6 +12,7 @@ about:
       href: https://github.com
 ---
 
+::: {.column-page}
 
 Yada Yada
 
@@ -22,3 +23,5 @@ some text
 ## Experience
 
 text as well 
+
+:::
