@@ -1,7 +1,24 @@
 ---
-title: "Mysite"
+title: "Tobias Gerken"
+about:
+  template: trestles
+  image: images/gerken.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Yada Yada
+
+## Education
+
+some text
+
+## Experience
+
+text as well 
