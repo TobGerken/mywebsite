@@ -1,1 +1,1 @@
-Sitemap: https://TobGerken.github.io/mywebsite/sitemap.xml
+Sitemap: https://github.com/TobGerken/mywebsite/sitemap.xml
