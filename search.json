@@ -18,20 +18,20 @@
     "href": "index.html",
     "title": "Tobias Gerken",
     "section": "",
-    "text": "Yada Yada"
+    "text": "Yada Yada\n\n\nsome text\n\n\n\ntext as well"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Tobias Gerken",
-    "section": "Education",
-    "text": "Education\nsome text"
+    "section": "",
+    "text": "some text"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Tobias Gerken",
-    "section": "Experience",
-    "text": "Experience\ntext as well"
+    "section": "",
+    "text": "text as well"
   }
 ]
