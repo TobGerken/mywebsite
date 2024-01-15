@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Tobias Gerken, Ph.D."
+  title: "Tobias Gerken"
   navbar:
     right:
       - href: index.qmd
