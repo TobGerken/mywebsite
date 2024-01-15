@@ -18,7 +18,7 @@ about:
 
 ::: {.column-page}
 
-I am an Assistant Professor in the [School of Integrated Sciences](https://www.jmu.edu/cise/sis/index.shtml) at [James Madison University](https://www.jmu.edu) and teach classes around environmental issues like climate change and air & water pollution and environmental data analysis. 
+I am an [Assistant Professor](https://www.jmu.edu/cise/people/faculty/gerken-tobias.shtml) in the [School of Integrated Sciences](https://www.jmu.edu/cise/sis/index.shtml) at [James Madison University](https://www.jmu.edu) and teach classes around environmental issues like climate change and air & water pollution and environmental data analysis. 
 
 I am an atmospheric and environmental scientist investigating how the land-surface, ecosystems, and atmospher interact through the exchange of energy, water, and gases like carbon dioxide. 
 From this we can learn a lot about the land surface's and vegetations impact on local and regional weather and climate. Right now, I am working on better understanding the role of land-atmosphere coupling in the development and intensification of flash drought and on the role of air quality on urban lightning climatologies.  
