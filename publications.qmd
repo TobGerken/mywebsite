@@ -1,0 +1,118 @@
+---
+title: "Publications"
+---
+
+## Peer Reviewed Publications
+
+(* Indicates co-supervised students;  *JMU Student*)
+
+Bentley, M., **Gerken, T.,** Duan, Z., Bonsal, D., Way, H., *Szakal, E.*, *Pham, M.*, *Donaldson, H.*, (in revision). Toward Untangling Thunderstorm-Aerosol Relationships: An Observational Study of Regions Centered on Washington, D.C. and Kansas City. Atmospheric Research.
+
+**[38]** Pedruzo-Bagazgoitia, X., Patton, E.G., Moene, A.F., Ouwersloot, H.G., **Gerken, T.**, Machado, L. a. T., Martin, S.T., Sörgel, M., Stoy, P.C., Yamasoe, M.A., Vilà-Guerau de Arellano, J., 2023. Investigating the Diurnal Radiative, Turbulent, and Biophysical Processes in the Amazonian Canopy-Atmosphere Interface by Combining LES Simulations and Observations. Journal of Advances in Modeling Earth Systems 15, e2022MS003210. https://doi.org/10.1029/2022MS003210
+
+**[37]** Fuentes, J.D., **Gerken, T.**, Chamecki, M., Stoy, P.C., Freire, L.S., Ruiz-Plancarte, J., 2022. Turbulent transport and reactions of plant-emitted hydrocarbons in an Amazonian rain forest. Atmospheric Environment 279, 119094. https://doi.org/10.1016/j.atmosenv.2022.119094
+
+**[36]** Wei, Y., Shresha, R., Pal, S., Gerken, T., McNelis, J., Singh, D., Thornton, M., Boyer, A.G., Shook, M.A., Chen, G., Baier, B.C., Barkley, Z.R., Barrik, J.D., Bennet, J.R., Browell, E.V., Campbell, J.F., Campbell, L.J., Choi, Y., Collins, J., Dobler, J., Eckl, M., Feng, S., Fiehn, A., Fried, A., DiGangi, J.P., Barton-Gimley, R., Halliday, H., Klausner, T., Kooi, S., Kostinek, J., Lauvaux, T., Lin, B., McGill, M., Meadows, B., Nehrir, A.R., Nowak, J., Obland, M., O’Dell, C.W., Fao, R.M., Richter, D., Roiger, A., Sweeney, C., Walega, J., Weibring, P., Williams, C.A., Yang, M.M., Zhou, Y., Davis, K.J., 2021. The ACT-America Datasets: Description, Management and Delivery. Earth and Space Science ESS2860. https://doi.org/10.1029/2020EA001634
+
+​	*Recognized as a* [*ESS Top Cited Article 2021-2022*](https://scythe-offer-027.notion.site/a607f0bd0fb14c93b49f09e8f99ef405)
+
+**[35]** Stoy, P.C., Cook^*^, A.A., Dore, J.E., Kljun, N., Kleindl, W., Brookshire, E.N.J., **Gerken, T.**, 2021. Methane efflux from an American bison herd. Biogeosciences 18, 961–975. https://doi.org/10.5194/bg-18-961-2021
+
+**[34]** Helbig, M., **Gerken, T.**, Beamesderfer, E.R., Baldocchi, D.D., Banerjee, T., Biraud, S.C., Brown, W.O.J., Brunsell, N.A., Burakowski, E.A., Burns, S.P., Butterworth, B.J., Chan, W.S., Davis, K.J., Desai, A.R., Fuentes, J.D., Hollinger, D.Y., Kljun, N., Mauder, M., Novick, K.A., Perkins, J.M., Rahn, D.A., Rey-Sanchez, C., Santanello, J.A., Scott, R.L., Seyednasrollah, B., Stoy, P.C., Sullivan, R.C., de Arellano, J.V.-G., Wharton, S., Yi, C., Richardson, A.D., 2021. Integrating continuous atmospheric boundary layer and tower-based flux measurements to advance understanding of land-atmosphere interactions. Agricultural and Forest Meteorology 307, 108509. https://doi.org/10.1016/j.agrformet.2021.108509
+
+​	*Featured as* [*AFM’s editor’s choice for July 2021*](https://www.journals.elsevier.com/agricultural-and-forest-meteorology/editors-choice/june-2021-editors-choice-agricultural-and-forest-meteorology)*.*
+
+**[33]** **Gerken, T.**, Feng, S., Keller, K., Lauvaux, T., DiGangi, J.P., Choi, Y., Baier, B., Davis, K.J., 2021. Examining CO2 Model Observation Residuals Using ACT-America Data. Journal of Geophysical Research: Atmospheres 126, e2020JD034481. https://doi.org/10.1029/2020JD034481
+
+**[32]** Davis, K.J., Browell, E.V., Feng, S., Lauvaux, T., Obland, M.D., Pal, S., Baier, B.C., Baker, D.F., Baker, I.T., Barkley, Z.R., Bowman, K.W., Cui, Y.Y., Denning, A.S., DiGangi, J.P., Dobler, J.T., Fried, A., **Gerken, T.**, Keller, K., Lin, B., Nehrir, A.R., Normile, C.P., O’Dell, C.W., Ott, L.E., Roiger, A., Schuh, A.E., Sweeney, C., Wei, Y., Weir, B., Xue, M., Williams, C.A., 2021. The Atmospheric Carbon and Transport (ACT) – America Mission. Bulletin of the American Meteorological Society 1–54. https://doi.org/10.1175/BAMS-D-20-0300.1
+
+**[31]** Cui, Y.Y., Jacobson, A.R., Feng, S., Wesloh, D., **Gerken, T.**, Barkley, Z.R., Keller, K., Baker, D., Davis, K.J., 2021. Evaluation of CarbonTracker’s inverse estimates of North American net ecosystem exchange of CO2 from different observing systems using ACT-America airborne observations. Journal of Geophysical Research: Atmospheres JGRD57130. https://doi.org/10.1029/2020JD034406
+
+**[30]** Vilà-Guerau de Arellano, J., Wang, X., Pedruzo‐Bagazgoitia, X., Sikma, M., Agustí‐Panareda, A., Boussetta, S., Balsamo, G., Machado, L. a. T., Biscaro, T., Gentine, P., Martin, S.T., Fuentes, J.D., **Gerken, T.**, 2020. Interactions Between the Amazonian Rainforest and Cumuli Clouds: A Large-Eddy Simulation, High-Resolution ECMWF, and Observational Intercomparison Study. Journal of Advances in Modeling Earth Systems 12, e2019MS001828. https://doi.org/10.1029/2019MS001828
+
+**[29]** Yin, Y., Byrne, B., Liu, J., Wennberg, P.O., Davis, K.J., Magney, T., Köhler, P., He, L., Jeyaram, R., Humphrey, V., **Gerken, T.**, Feng, S., Digangi, J.P., Frankenberg, C., 2020. Cropland Carbon Uptake Delayed and Reduced by 2019 Midwest Floods. AGU Advances 1, e2019AV000140. https://doi.org/10.1029/2019AV000140
+
+**[28]** **Gerken, T.**, Ruddell, B.L., Yu, R., Stoy, P.C., Drewry, D.T., 2019. Robust observations of land-to-atmosphere feedbacks using the information flows of FLUXNET. npj Climate and Atmospheric Science 2, 1–10. https://doi.org/10.1038/s41612-019-0094-4
+
+**[27]** Bromley^*^, G.T., **Gerken, T.**, Prein, A.F., Stoy, P.C., 2019. Recent trends in the near-surface climatology of the northern North American Great Plains. J. Climate 33, 461–475. https://doi.org/10.1175/JCLI-D-19-0106.1
+
+**[26]** Stoy, P.C., El-Madany, T.S., Fisher, J.B., Gentine, P., **Gerken, T.**, Good, S.P., Klosterhalfen, A., Liu, S., Miralles, D.G., Perez-Priego, O., Rigden, A.J., Skaggs, T.H., Wohlfahrt, G., Anderson, R.G., Coenders-Gerrits, A.M.J., Jung, M., Maes, W.H., Mammarella, I., Mauder, M., Migliavacca, M., Nelson, J.A., Poyatos, R., Reichstein, M., Scott, R.L., Wolf, S., 2019b. Reviews and syntheses: Turning the challenges of partitioning ecosystem evaporation and transpiration into opportunities. Biogeosciences 16, 3747–3775. https://doi.org/10.5194/bg-16-3747-2019
+
+**[25]** Fu^*^, Z., Stoy, P.C., Poulter, B., **Gerken, T.**, Zhang, Z., Wakbulcho, G., Niu, S., 2019. Maximum carbon uptake rate dominates the interannual variability of global net ecosystem exchange. Global Change Biology 25, 3381–3394. https://doi.org/10.1111/gcb.14731
+
+**[24]** Wei^*^, D., Fuentes, J.D., **Gerken, T.**, Trowbridge, A.M., Stoy, P.C., Chamecki, M., 2019. Influences of nitrogen oxides and isoprene on ozone-temperature relationships in the Amazon rain forest. Atmospheric Environment 206, 280–292. https://doi.org/10.1016/j.atmosenv.2019.02.044
+
+**[23]** Fu, Z.^*^, **Gerken, T.**, Bromley, G., Araújo, A., Bonal, D., Burban, B., Ficklin, D., Fuentes, J.D., Goulden, M., Hirano, T., Kosugi, Y., Liddell, M., Nicolini, G., Niu, S., Roupsard, O., Stefani, P., Mi, C., Tofte, Z., Xiao, J., Valentini, R., Wolf, S., Stoy, P.C., 2018. The surface-atmosphere exchange of carbon dioxide in tropical rainforests: Sensitivity to environmental drivers and flux measurement methodology. Agricultural and Forest Meteorology 263, 292–307. https://doi.org/10.1016/j.agrformet.2018.09.001
+
+**[22]** **Gerken, T.**, Bromley^*^, G.T., Ruddell, B.L., Williams, S., Stoy, P.C., 2018. Convective suppression before and during the United States Northern Great Plains flash drought of 2017. Hydrol. Earth Syst. Sci. 22, 4155–4163. https://doi.org/10.5194/hess-22-4155-2018
+
+**[21]** Miehe, G., Schleuss, P.-M., Seeber, E., Babel, W., Biermann, T., Braendle, M., Chen, F., Coners, H., Foken, T., **Gerken, T.**, Graf, H.-F., Guggenberger, G., Hafner, S., Holzapfel, M., Ingrisch, J., Kuzyakov, Y., Lai, Z., Lehnert, L., Leuschner, C., Liu, J., Liu, S., Ma, Y., Miehe, S., Mosbrugger, V., Noltie, H.J., Schmidt, J., Spielvogel, S., Unteregelsbacher, S., Wang, Y., Willinghöfer, S., Xu, X., Yang, Y., Zhang, S., Opgenoorth, L., Wesche, K., 2018. The Kobresia pygmaea ecosystem of the Tibetan highlands – Origin, functioning and degradation of the world’s largest pastoral alpine ecosystem: Kobresia pastures of Tibet. Science of The Total Environment. https://doi.org/10.1016/j.scitotenv.2018.08.164
+
+**[20]** Wei^*^, D., Fuentes, J.D., **Gerken, T.**, Chamecki, M., Trowbridge, A.M., Stoy, P.C., Katul, G.G., Fisch, G., Acevedo, O., Manzi, A., von Randow, C., dos Santos, R.M.N., 2018. Environmental and biological controls on seasonal patterns of isoprene above a rain forest in central Amazonia. Agricultural and Forest Meteorology 256–257, 391–406. https://doi.org/10.1016/j.agrformet.2018.03.024**
+
+**[19]** Long, J.A., Stoy, P.C., **Gerken, T.**, 2018. Tornado seasonality in the southeastern United States. Weather and Climate Extremes 20, 81–91. https://doi.org/10.1016/j.wace.2018.03.002
+
+**[18]** Ghannam, K., Katul, G.G., Bou-Zeid, E., **Gerken, T.**, Chamecki, M., 2018. Scaling and similarity of the anisotropic coherent eddies in near-surface atmospheric turbulence. J. Atmos. Sci. https://doi.org/10.1175/JAS-D-17-0246.1
+
+**[17]** **Gerken, T.**, Bromley^*^, G.T., Stoy, P.C., 2018. Surface moistening trends in the northern North American Great Plains increase the likelihood of convective initiation. J. Hydrometeor. 19, 227–244. https://doi.org/10.1175/JHM-D-17-0117.1
+
+**[16]** Sun, F., Ma, Y., Li, M., Hu, Z., Tartari, G., Salerno, F., **Gerken, T.**, Bonasoni, P., Cristofanelli, P., Vuillermoz, E., 2017. Mechanism of Daytime Strong Winds on the Northern Slopes of Himalayas, near Mount Everest: Observation and Simulation. J. Appl. Meteor. Climatol. https://doi.org/10.1175/JAMC-D-16-0409.1
+
+**[15]** **Gerken, T.**, Ruddell, B.L., Fuentes, J.D., Araújo, A., Brunsell, N.A., Maia, J., Manzi, A., Mercer, J., dos Santos, R.N., von Randow, C., Stoy, P.C., 2017b. Investigating the mechanisms responsible for the lack of surface energy balance closure in a central Amazonian tropical rainforest. Agric. Forest Meteorol. 255, 92–103. https://doi.org/10.1016/j.agrformet.2017.03.023
+
+**[14]** Sun, F., Ma, Y., Hu, Z., Li, M., **Gerken, T.**, Zhang, L., Han, C., Sun, G., 2017. Observation of strong winds on the northern slopes of Mount Everest in monsoon season. Arctic, Antarctic, and Alpine Research 49, 1–11. https://doi.org/10.1657/AAAR0016-010
+
+**[13]** **Gerken, T.**, Chamecki, M., Fuentes, J.D., 2017. Air-Parcel Residence Times Within Forest Canopies. Boundary-Layer Meteorology 165, 29–54. https://doi.org/10.1007/s10546-017-0269-7
+
+**[12]** Freire^*^, L.S., **Gerken, T.**, Ruiz-Plancarte, J., Wei, D., Fuentes, J.D., Katul, G.G., Dias, N.L., Acevedo, O.C., Chamecki, M., 2017. Turbulent mixing and removal of ozone within an Amazon rainforest canopy. J. Geophys. Res. Atmos. 122, 2791–2811. https://doi.org/10.1002/2016JD026009
+
+**[11]** Thomas, C.K., Serafimovich, A., Siebicke, L., **Gerken, T.**, Foken, T., 2017. Coherent Structures and Flux Coupling, in: Energy and Matter Fluxes of a Spruce Forest Ecosystem, Ecological Studies 229, pp. 113–135, Springer, https://doi.org/10.1007/978-3-319-49389-3_6 
+
+**[10]** Vick, E.S.K., Stoy, P.C., Tang, A.C.I., Gerken, T., 2016. The surface-atmosphere exchange of carbon dioxide, water, and sensible heat across a dryland wheat-fallow rotation. Agriculture, Ecosystems & Environment 232, 129–140. https://doi.org/10.1016/j.agee.2016.07.018
+
+**[9]** Gerken, T., Wei^*^, D., Chase, R.J., Fuentes, J.D., Schumacher, C., Machado, L.A.T., Andreoli, R.V., Chamecki, M., Ferreira de Souza, R.A., Freire, L.S., Jardine, A.B., Manzi, A.O., Nascimento dos Santos, R.M., von Randow, C., dos Santos Costa, P., Stoy, P.C., Tóta, J., Trowbridge, A.M., 2016. Downward transport of ozone rich air and implications for atmospheric chemistry in the Amazon rainforest. Atmospheric Environment 124, Part A, 64–76. https://doi.org/10.1016/j.atmosenv.2015.11.014
+
+**[8]** Fuentes, J.D., Chamecki, M., Nascimento dos Santos, R.M., Von Randow, C., Stoy, P.C., Katul, G., Fitzjarrald, D., Manzi, A., **Gerken, T.**, Trowbridge, A., Souza Freire, L., Ruiz-Plancarte, J., Furtunato Maia, J.M., Tóta, J., Dias, N., Fisch, G., Schumacher, C., Acevedo, O., Mercer, J.R., Yañez-Serrano, A.M., 2016. Linking meteorology, turbulence, and air chemistry in the Amazon rainforest. Bull. Amer. Meteor. Soc. 97, 2329–2342. https://doi.org/10.1175/BAMS-D-15-00152.1
+
+**[7]** Santos, D.M., Acevedo, O.C., Chamecki, M., Fuentes, J.D., **Gerken, T.**, Stoy, P.C., 2016. Temporal Scales of the Nocturnal Flow Within and Above a Forest Canopy in Amazonia. Boundary-Layer Meteorol 1–26. https://doi.org/10.1007/s10546-016-0158-5
+
+**[6]** **Gerken, T.**, Babel, W., Herzog, M., Fuchs, K., Sun, F., Ma, Y., Foken, T., Graf, H.-F., 2015. High-resolution modelling of interactions between soil moisture and convective development in a mountain enclosed Tibetan Basin. Hydrol. Earth Syst. Sci. 19, 4023–4040. https://doi.org/10.5194/hess-19-4023-2015
+
+**[5]** Babel, W., Biermann, T., Coners, H., Falge, E., Seeber, E., Ingrisch, J., Schleuß, P.-M., Gerken, T., Leonbacher, J., Leipold, T., Willinghöfer, S., Schützenmeister, K., Shibistova, O., Becker, L., Hafner, S., Spielvogel, S., Li, X., Xu, X., Sun, Y., Zhang, L., Yang, Y., Ma, Y., Wesche, K., Graf, H.-F., Leuschner, C., Guggenberger, G., Kuzyakov, Y., Miehe, G., Foken, T., 2014b. Pasture degradation modifies the water and carbon cycles of the Tibetan highlands. Biogeosciences 11, 6633–6656. https://doi.org/10.5194/bg-11-6633-2014
+
+**[4] Gerken, T.**, Biermann, T., Babel, W., Herzog, M., Ma, Y., Foken, T., Graf, H.-F., 2014. A modelling investigation into lake-breeze development and convection triggering in the Nam Co Lake basin, Tibetan Plateau. Theor. Appl. Climatol. 117, 149–167. https://doi.org/10.1007/s00704-013-0987-9
+
+**[3] Gerken, T.**, Babel, W., Sun, F., Herzog, M., Ma, Y., Foken, T., Graf, H.-F., 2013. Uncertainty in atmospheric profiles and its impact on modeled convection development at Nam Co Lake, Tibetan Plateau: J. Geophys. Res. 118, 12317–12331. https://doi.org/10.1002/2013JD020647
+
+**[2] Gerken, T.**, Babel, W., Hoffmann, A., Biermann, T., Herzog, M., Friend, A.D., Li, M., Ma, Y., Foken, T., Graf, H.-F., 2012. Turbulent flux modelling with a simple 2-layer soil model and extrapolated surface temperature applied at Nam Co Lake basin on the Tibetan Plateau. Hydrol. Earth Syst. Sci. 16, 1095–1110. https://doi.org/10.5194/hess-16-1095-2012
+
+**[1]** Foken, T., Meixner, F.X., Falge, E., Zetzsch, C., Serafimovich, A., Bargsten, A., Behrendt, T., Biermann, T., Breuninger, C., Dix, S., **Gerken, T.**, Hunner, M., Lehmann-Pape, L., Hens, K., Jocher, G., Kesselmeier, J., Lüers, J., Mayer, J.-C., Moravek, A., Plake, D., Riederer, M., Rütz, F., Scheibe, M., Siebicke, L., Sörgel, M., Staudt, K., Trebs, I., Tsokankunku, A., Welling, M., Wolff, V., Zhu, Z., 2012. Coupling processes and exchange of energy and reactive and non-reactive trace gases at a forest site – results of the EGER experiment. Atmos. Chem. Phys. 12, 1923–1950. https://doi.org/10.5194/acp-12-1923-2012
+
+## Refereed Conference Paper
+
+Duan, Z., Szakal, E., Bentley, M., **Gerken, T.**, Bonsal, D., (in review). A Parallel Spatiotemporal Clustering Algorithm with MPI in Analyzing Ground-lightning Dataset, in: Proceedings of 2024 International Conference on Computing, Networking and Communications (ICNC): Edge Computing, Cloud Computing and Big Data. Big Island, HI.
+
+## Non-refereed Publications 
+
+Helbig, M., **Gerken, T.**, Beamesderfer, E., Baldocchi, D.D., Banerjee, T., Biraud, S.C., Brunsell, N.A., Burns, S.P., Butterworth, B., Chan, W.S., Desai, A.R., Fuentes, J.D., Hollinger, D.Y., Kljun, N., Mauder, M., Novick, K.A., Perkins, J.M., Rey-Sanchez, C., Scott, R.L., Seyednasrollah, B., Stoy, P.C., Sullivan, P.P., J. Vila-Guerau de Arellano, J., Wharton, S., Yi, C., Richardson, A.D., 2020. Whitepaper: Understanding land-atmosphere interactions through tower-based flux and continuous atmospheric boundary layer measurements, Ameriflux Whitepaper. Ameriflux.
+
+**Gerken, T.**, Chamecki, M., Fuentes, J.D., 2016. Large eddy simulation of the interactions between biogenic volatile organic compound transport and chemistry within a tropical forest. Ciência e Natura 38, 262–265.
+
+**Gerken, T**., 2014. Book Review: Essentials of the Earth's Climate System by Roger G. Barry and Eileen A. Hall-McKim, GeoQ Newsletter of EGU, 12
+
+**Gerken, T.**, 2013. Book Review: Climate Dynamics by G.H. Cook, GeoQ Newsletter of EGU, 8 
+
+**Gerken, T**., Fuchs, K., Babel, W., 2013. Documentation of the Atmospheric Boundary Layer Experiment, Nam Tso, Tibet 08th of July – 08th of August 2012 (Work Report No. 53), Arbeitsergebnisse der Abteilung Mikrometeorologie. University of Bayreuth, Bayreuth.
+
+**Gerken, T**., 2012. NOT-SCI - Warming Warning, a cold winter does not mean the end of climate change, Varsity, 755, Feb 24th
+
+Serafimovich, A., Siebicke, L., Staudt, K., Lüers, J., Hunner, M., **Gerken, T**., Schier, S., Biermann, T., Rütz, F., von Buttlar, J., Riederer, M., Mayer, J.C., Foken, T., 2008. ExchanGE processes in mountainous Regions (EGER) - Documentation of the Intensive Observation Period (IOP2) June, 1st to July, 15th 2008, Arbeitsergebnisse der Abteilung Mikrometeorologie. University of Bayreuth, Bayreuth.
+
+[](presentations)
+
+
+
+
+
+
+
