@@ -58,9 +58,23 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Research Experience: Understanding Flash Drought",
     "section": "",
     "text": "About this site\nI am adding some text here, again!"
+  },
+  {
+    "objectID": "about.html#what-you-will-need",
+    "href": "about.html#what-you-will-need",
+    "title": "Research Experience: Understanding Flash Drought",
+    "section": "What You Will Need",
+    "text": "What You Will Need\n\nJMU Student at Sophomore or Junior level\nInterest in Climate & Climate Impacts\nInterested in hands-on data work\nSome experience in Python Programming and Statistics demonstrated through relevant course work (e.g. ISAT 251 & 252, or similar)\nTime to commit at least 5 hours per week during the Spring 2024 Semester with opportunity to continue next Fall."
+  },
+  {
+    "objectID": "about.html#what-you-will-get-out-of-this",
+    "href": "about.html#what-you-will-get-out-of-this",
+    "title": "Research Experience: Understanding Flash Drought",
+    "section": "What You Will Get Out of This",
+    "text": "What You Will Get Out of This\n\nLearn about working with climate data\nOpportunity to develop and showcase your reseach skills\nPay: $15/hour"
   },
   {
     "objectID": "presentations.html",
