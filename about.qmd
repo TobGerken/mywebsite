@@ -1,35 +1,61 @@
 ---
-title: "Research Experience: Understanding Flash Drought"
+title: "Research Experience: 
+    Understanding Flash Drought"
 title-block-banner: images/Drought_in_a_Lake.jpg
 title-block-banner-color: MidnightBlue 
+
+format:
+   html: default
+   pdf: 
+    output-file: "NSFDrought_Advert"
+    output-ext:  "pdf"
+    geometry:
+        - top=5mm
+        - left=10mm
+        - bottom=5mm
+        - right=10mm
+
 ---
 
-About this site
 
-I am adding some text here, again!
+## The Project
 
 ::: {.grid}
 
-::::{.g-col-4}
-![](images/openscapes_hex.png)
+:::{.g-col-4}
+[Flash droughts](https://theconversation.com/what-is-a-flash-drought-an-earth-scientist-explains-194141) are rapidly intensifying droughts that develop over the course of a few days to weeks. They can have devastating consequences for agriculture and water resources. 
+
+Ongoing and future climate change, [will likely increase the risk of flash drought](https://www.nature.com/articles/s43247-023-00826-1). 
 :::
+
+The reason for the rapid drought development during flash drought is poorly understood, but we think [that feedbacks between the land-surface and atmosphere](https://www.nature.com/articles/s41467-022-28752-4) are at least partially to blame. 
+
+The National Science Foundation has recently funded a [research project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2303457&HistoricalAwards=false) in collaboration with the University of Wisconsin-Madison to help uncovering the role of land-atmosphere feedbacks on drought development and intensification; **and you can be part of this research!**
 
 :::{.g-col-8}
-Some text, some text, some text, some text, some text, [...] some text, some text
+![Flash Drought Coverate, Washington Post 2017-07-06](images/WaPoFlashDrought.png)
 :::
 
 :::
+
+![A developing flash drought during the summer of 2023 that affected the Mid-West agricultural belt](https://images.theconversation.com/files/533776/original/file-20230623-25-ed4we5.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip)
 
 ## What You Will Need 
 
 - JMU Student at Sophomore or Junior level
 - Interest in Climate & Climate Impacts
 - Interested in hands-on data work
-- Some experience in Python Programming and Statistics demonstrated through relevant course work (e.g. *ISAT 251 & 252*, or similar)
-- Time to commit at least 5 hours per week during the Spring 2024 Semester with opportunity to continue next Fall. 
+- Some experience in Python Programming and Statistics demonstrated through relevant course work (e.g. *ISAT 251 & 252*) or other means. 
+- Time to commit at least 5 hours per week during the Spring 2024 Semester with opportunity to continue at least next Fall.
+    - The project is funded for 2 years. 
 
 ## What You Will Get Out of This
 
+- Contribute to a National Science Foundation funded research project, that aims to better understand this important climate impact. 
 - Learn about working with climate data
 - Opportunity to develop and showcase your reseach skills 
 - Pay: $15/hour
+
+## Contact
+
+**Contact Dr. Tobias Gerken ([gerkentx@jmu.edu](mailto:user@example.com)) for additional details and how to apply.**

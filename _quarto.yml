@@ -10,7 +10,8 @@ website:
         text: Home
       - teaching.qmd
       - publications.qmd
-      #- about.qmd
+      - href: about.qmd
+        text: Research Opportunity
 
 format:
   html:
