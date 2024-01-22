@@ -28,15 +28,15 @@ format:
 Ongoing and future climate change, [will likely increase the risk of flash drought](https://www.nature.com/articles/s43247-023-00826-1). 
 :::
 
-The reason for the rapid drought development during flash drought is poorly understood, but we think [that feedbacks between the land-surface and atmosphere](https://www.nature.com/articles/s41467-022-28752-4) are at least partially to blame. 
-
-The National Science Foundation has recently funded a [research project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2303457&HistoricalAwards=false) in collaboration with the University of Wisconsin-Madison to help uncovering the role of land-atmosphere feedbacks on drought development and intensification; **and you can be part of this research!**
-
 :::{.g-col-8}
 ![Flash Drought Coverate, Washington Post 2017-07-06](images/WaPoFlashDrought.png)
 :::
 
 :::
+
+The reason for the rapid drought development during flash drought is poorly understood, but we think [that feedbacks between the land-surface and atmosphere](https://www.nature.com/articles/s41467-022-28752-4) are at least partially to blame. 
+
+The National Science Foundation has recently funded a [research project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2303457&HistoricalAwards=false) in collaboration with the University of Wisconsin-Madison to help uncovering the role of land-atmosphere feedbacks on drought development and intensification; **and you can be part of this research!**
 
 ![A developing flash drought during the summer of 2023 that affected the Mid-West agricultural belt](https://images.theconversation.com/files/533776/original/file-20230623-25-ed4we5.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip)
 
