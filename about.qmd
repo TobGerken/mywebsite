@@ -26,6 +26,8 @@ format:
 [Flash droughts](https://theconversation.com/what-is-a-flash-drought-an-earth-scientist-explains-194141) are rapidly intensifying droughts that develop over the course of a few days to weeks. They can have devastating consequences for agriculture and water resources. 
 
 Ongoing and future climate change, [will likely increase the risk of flash drought](https://www.nature.com/articles/s43247-023-00826-1). 
+
+The reason for the rapid drought development during flash drought is poorly understood, but we think [that feedbacks between the land-surface and atmosphere](https://www.nature.com/articles/s41467-022-28752-4) are at least partially to blame. 
 :::
 
 :::{.g-col-8}
@@ -34,7 +36,6 @@ Ongoing and future climate change, [will likely increase the risk of flash droug
 
 :::
 
-The reason for the rapid drought development during flash drought is poorly understood, but we think [that feedbacks between the land-surface and atmosphere](https://www.nature.com/articles/s41467-022-28752-4) are at least partially to blame. 
 
 The National Science Foundation has recently funded a [research project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2303457&HistoricalAwards=false) in collaboration with the University of Wisconsin-Madison to help uncovering the role of land-atmosphere feedbacks on drought development and intensification; **and you can be part of this research!**
 
@@ -58,4 +59,4 @@ The National Science Foundation has recently funded a [research project](https:/
 
 ## Contact
 
-**Contact Dr. Tobias Gerken ([gerkentx@jmu.edu](mailto:user@example.com)) for additional details and how to apply.**
+**Contact Dr. Tobias Gerken ([gerkentx@jmu.edu](mailto:gerkentx@jmu.edu)) for additional details and how to apply.**
