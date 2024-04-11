@@ -2,11 +2,11 @@
 title: "Publications"
 ---
 
-## Peer Reviewed Publications
+## Peer-Reviewed Publications
 
 (* Indicates co-supervised students;  *JMU Student*)
 
-Bentley, M., **Gerken, T.,** Duan, Z., Bonsal, D., Way, H., *Szakal, E.*, *Pham, M.*, *Donaldson, H.*, (in revision). Toward Untangling Thunderstorm-Aerosol Relationships: An Observational Study of Regions Centered on Washington, D.C. and Kansas City. Atmospheric Research.
+**[39]** Bentley, M., **Gerken, T.,** Duan, Z., Bonsal, D., Way, H., *Szakal, E.*, *Pham, M.*, *Donaldson, H.*, 2024. Toward Untangling Thunderstorm-Aerosol Relationships: An Observational Study of Regions Centered on Washington, D.C. and Kansas City. Atmospheric Research 304, 107402, [https://doi.org/10.1016/j.atmosres.2024.107402](https://doi.org/10.1016/j.atmosres.2024.107402). [(Open Access Postprint)](files/ATMOSRES_2024-107402.pdf)
 
 **[38]** Pedruzo-Bagazgoitia, X., Patton, E.G., Moene, A.F., Ouwersloot, H.G., **Gerken, T.**, Machado, L. a. T., Martin, S.T., Sörgel, M., Stoy, P.C., Yamasoe, M.A., Vilà-Guerau de Arellano, J., 2023. Investigating the Diurnal Radiative, Turbulent, and Biophysical Processes in the Amazonian Canopy-Atmosphere Interface by Combining LES Simulations and Observations. Journal of Advances in Modeling Earth Systems 15, e2022MS003210. [Open Access: https://doi.org/10.1029/2022MS003210](https://doi.org/10.1029/2022MS003210)
 
