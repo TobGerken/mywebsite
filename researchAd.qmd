@@ -46,7 +46,7 @@ The National Science Foundation has recently funded a [research project](https:/
 During the last year, we (Two ISAT students and me) worked together to
 
     - analyze climate data (temperature, rainfall, and humidity) to characterize two recent drought events in the U.S. Great Plains.  
-    - prepare a poster presentation that the students will presented at the American Meteorological Society's [2025 Annual Meeting](https://annual.ametsoc.org/index.cfm/2025/) in New Orleans during at the 24^th^ Annual Student Conference. 
+    - prepare a poster presentation that the students will presented at the American Meteorological Society's [2025 Annual Meeting](https://annual.ametsoc.org/index.cfm/2025/) in New Orleans during at the 24$^{th}$ Annual Student Conference. 
 
 ## What You Will Need 
 
