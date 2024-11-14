@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.553">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Tobias Gerken - Research Experience: Understanding Flash Drought</title>
+<title>Research Experience: Understanding Flash Drought – Tobias Gerken</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -101,7 +101,7 @@ background-size: cover;
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -124,7 +124,7 @@ background-size: cover;
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -155,6 +155,7 @@ background-size: cover;
    
   <ul>
   <li><a href="#the-project" id="toc-the-project" class="nav-link active" data-scroll-target="#the-project">The Project</a></li>
+  <li><a href="#where-we-are-now" id="toc-where-we-are-now" class="nav-link" data-scroll-target="#where-we-are-now">Where We Are Now</a></li>
   <li><a href="#what-you-will-need" id="toc-what-you-will-need" class="nav-link" data-scroll-target="#what-you-will-need">What You Will Need</a></li>
   <li><a href="#what-you-will-get-out-of-this" id="toc-what-you-will-get-out-of-this" class="nav-link" data-scroll-target="#what-you-will-get-out-of-this">What You Will Get Out of This</a></li>
   <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
@@ -193,6 +194,11 @@ background-size: cover;
 </figure>
 </div>
 </section>
+<section id="where-we-are-now" class="level2">
+<h2 class="anchored" data-anchor-id="where-we-are-now">Where We Are Now</h2>
+<p>During the last year, we (Two ISAT students and me) worked together - analyze climate data (temperature, rainfall, and humidity) to characterize two recent drought events in the U.S. Great Plains.<br>
+- prepare a poster presentation that the students will presented at the American Meteorological Society’s <a href="https://annual.ametsoc.org/index.cfm/2025/">2025 Annual Meeting</a> in New Orleans during at the 24<sup>th</sup> Annual Student Conference.</p>
+</section>
 <section id="what-you-will-need" class="level2">
 <h2 class="anchored" data-anchor-id="what-you-will-need">What You Will Need</h2>
 <ul>
@@ -200,7 +206,7 @@ background-size: cover;
 <li>Interest in Climate &amp; Climate Impacts</li>
 <li>Interested in hands-on data work</li>
 <li>Some experience in Python Programming and Statistics demonstrated through relevant course work (e.g.&nbsp;<em>ISAT 251 &amp; 252</em>) or other means.</li>
-<li>Time to commit at least 5 hours per week during the Spring 2024 Semester with opportunity to continue at least next Fall.
+<li>Time to commit at least 5 hours per week during the Spring 2025 Semester with opportunity for a paid summer research experience.
 <ul>
 <li>The project is funded for 2 years.</li>
 </ul></li>
@@ -212,7 +218,7 @@ background-size: cover;
 <li>Contribute to a National Science Foundation funded research project, that aims to better understand this important climate impact.</li>
 <li>Learn about working with climate data</li>
 <li>Opportunity to develop and showcase your reseach skills</li>
-<li>Pay: $15/hour</li>
+<li>Pay: $16/hour</li>
 </ul>
 </section>
 <section id="contact" class="level2">
@@ -258,18 +264,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -301,7 +296,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/TobGerken\.github\.io\/mywebsite\/");
@@ -309,7 +326,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
