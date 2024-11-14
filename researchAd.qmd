@@ -41,13 +41,19 @@ The National Science Foundation has recently funded a [research project](https:/
 
 ![A developing flash drought during the summer of 2023 that affected the Mid-West agricultural belt](https://images.theconversation.com/files/533776/original/file-20230623-25-ed4we5.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip){fig-pos='h'}
 
+## Where We Are Now
+
+During the last year, we (Two ISAT students and me) worked together 
+    - analyze climate data (temperature, rainfall, and humidity) to characterize two recent drought events in the U.S. Great Plains.  
+    - prepare a poster presentation that the students will presented at the American Meteorological Society's [2025 Annual Meeting](https://annual.ametsoc.org/index.cfm/2025/) in New Orleans during at the 24^th^ Annual Student Conference. 
+
 ## What You Will Need 
 
 - JMU Student at Sophomore or Junior level
 - Interest in Climate & Climate Impacts
 - Interested in hands-on data work
 - Some experience in Python Programming and Statistics demonstrated through relevant course work (e.g. *ISAT 251 & 252*) or other means. 
-- Time to commit at least 5 hours per week during the Spring 2024 Semester with opportunity to continue at least next Fall.
+- Time to commit at least 5 hours per week during the Spring 2025 Semester with opportunity for a paid summer research experience.
     - The project is funded for 2 years. 
 
 ## What You Will Get Out of This
@@ -55,7 +61,7 @@ The National Science Foundation has recently funded a [research project](https:/
 - Contribute to a National Science Foundation funded research project, that aims to better understand this important climate impact. 
 - Learn about working with climate data
 - Opportunity to develop and showcase your reseach skills 
-- Pay: $15/hour
+- Pay: $16/hour
 
 ## Contact
 
