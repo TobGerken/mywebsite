@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-af1a5eef57a0beae2532659473833200.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -180,6 +180,7 @@ window.Quarto = {
 <section id="peer-reviewed-publications" class="level2">
 <h2 class="anchored" data-anchor-id="peer-reviewed-publications">Peer-Reviewed Publications</h2>
 <p>(* Indicates co-supervised students; <em>JMU Student</em>)</p>
+<p><strong>[In Review]</strong> Gerken, T., Davis, K. J., Keller, K., and Feng, S.: Application of PRIM for understanding patterns in carbon dioxide model-observation differences, Atmospheric Chemistry and Physics, <em>In Review</em>, <a href="https://doi.org/10.5194/egusphere-2025-341">Preprint: EGUsphere, https://doi.org/10.5194/egusphere-2025-341</a>, 2025.</p>
 <p><strong>[40]</strong> Sae-Jung, J., Bentley, M., <strong>Gerken, T.</strong>, and Duan, Z.: The Impact of Urban Particulate Matter on Lightning Frequency in Thunderstorms: A Case Study of the Bangkok Metropolitan Region, Earth Syst Environ, <a href="https://doi.org/10.1007/s41748-024-00474-1">Open Access: https://doi.org/10.1007/s41748-024-00474-1</a>, 2024.</p>
 <p><strong>[39]</strong> Bentley, M., <strong>Gerken, T.,</strong> Duan, Z., Bonsal, D., Way, H., <em>Szakal, E.</em>, <em>Pham, M.</em>, <em>Donaldson, H.</em>, 2024. Toward Untangling Thunderstorm-Aerosol Relationships: An Observational Study of Regions Centered on Washington, D.C. and Kansas City. Atmospheric Research 304, 107402, <a href="https://doi.org/10.1016/j.atmosres.2024.107402">https://doi.org/10.1016/j.atmosres.2024.107402</a>. <a href="files/ATMOSRES_2024-107402.pdf">(Open Access Postprint)</a></p>
 <p><strong>[38]</strong> Pedruzo-Bagazgoitia, X., Patton, E.G., Moene, A.F., Ouwersloot, H.G., <strong>Gerken, T.</strong>, Machado, L. a. T., Martin, S.T., Sörgel, M., Stoy, P.C., Yamasoe, M.A., Vilà-Guerau de Arellano, J., 2023. Investigating the Diurnal Radiative, Turbulent, and Biophysical Processes in the Amazonian Canopy-Atmosphere Interface by Combining LES Simulations and Observations. Journal of Advances in Modeling Earth Systems 15, e2022MS003210. <a href="https://doi.org/10.1029/2022MS003210">Open Access: https://doi.org/10.1029/2022MS003210</a></p>
@@ -324,8 +325,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -436,7 +435,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
