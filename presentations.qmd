@@ -2,6 +2,8 @@
 
 ### Invited Presentations
 
+**Gerken, T**: Lightning Talk, Using Continuous Atmospheric Boundary Layer Observations to constrain carbon dioxide exchange in Amazonia, Workshop on impacts of unusual weather events and climate anomalies on Amazon rainforest, Manaus, Brazil: 20-22 May 2024
+
 **Gerken, T:** Lightning Talk, Madison Celebration of Research and Scholarship, James Madison University, 16 Oct 2023 
 
 **Gerken, T** Davis, KJ & the ACT-America Science Team: Atmospheric Carbon & Transport America - Working to constrain green-house gas fluxes in North America; University of Exeter (UK) – Global Systems Institute Lunchtime Research Talks, Exeter: 18 February 2020
@@ -25,6 +27,12 @@
 ### Conference Presentations
 
 **Key:** Presenter = **bold**;  *JMU student = italics*; Mentored Graduate Student = **^**
+
+**Gerken, T**; Zhong, Y; Otkin, JA; Stoy, PC: Land-Atmosphere Interactions Associated with U.S. Northern and Southern Great Plains Droughts in 2021 and 2022: 39th Conference on Hydrology at the American Meteorological Society Annual Meeting, New Orleans, 12-16 January 2025 
+
+_La Rosa, B_; _**Burris, J.**_; Gerken, T: Understanding potential evapotranspiration dynamics before and during the onset of the 2021 Northern Great Plains and 2022 Southern Great Plains Droughts (Poster): 24th Annual Student Conference at the American Meteorological Society Annual Meeting, New Orleans, 12-16 January 2025 
+
+**Duan, Z**; _Agresto, J_; Bentley, M; Gerken, T.; Dudley, B: Analyzing Ground-lightning Dataset Using the Density Based Spatial Clustering of Applications with Noise (DBSCAN), 2024 IEEE International Performance, Computing, and Communications Conference, Orlando 22-24 November 2024
 
 **Gerken, T**; *Abbot, H; Lang, CA*; Bentley, M; Bonsal, D; Duan, Z; Way H: Validation and Sensitivity Testing of a Lightning Grouping Algorithm on Thunderstorm Climatologies (Poster): 28th Conference on Applied Climatology at the American Meteorological Society Annual Meeting, 28 January – 1 February 2024
 

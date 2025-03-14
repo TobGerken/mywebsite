@@ -6,8 +6,9 @@ title: "Publications"
 
 (* Indicates co-supervised students;  *JMU Student*)
 
-**[40]** Sae-Jung, J., Bentley, M., **Gerken, T.**, and Duan, Z.: The Impact of Urban Particulate Matter on Lightning Frequency in Thunderstorms: A Case Study of the Bangkok Metropolitan Region, Earth Syst Environ, [Open Access: https://doi.org/10.1007/s41748-024-00474-1](https://doi.org/10.1007/s41748-024-00474-1), 2024.
+**[In Review]** Gerken, T., Davis, K. J., Keller, K., and Feng, S.: Application of PRIM for understanding patterns in carbon dioxide model-observation differences, Atmospheric Chemistry and Physics, _In Review_, [Preprint: EGUsphere, https://doi.org/10.5194/egusphere-2025-341](https://doi.org/10.5194/egusphere-2025-341), 2025.
 
+**[40]** Sae-Jung, J., Bentley, M., **Gerken, T.**, and Duan, Z.: The Impact of Urban Particulate Matter on Lightning Frequency in Thunderstorms: A Case Study of the Bangkok Metropolitan Region, Earth Syst Environ, [Open Access: https://doi.org/10.1007/s41748-024-00474-1](https://doi.org/10.1007/s41748-024-00474-1), 2024.
 
 **[39]** Bentley, M., **Gerken, T.,** Duan, Z., Bonsal, D., Way, H., *Szakal, E.*, *Pham, M.*, *Donaldson, H.*, 2024. Toward Untangling Thunderstorm-Aerosol Relationships: An Observational Study of Regions Centered on Washington, D.C. and Kansas City. Atmospheric Research 304, 107402, [https://doi.org/10.1016/j.atmosres.2024.107402](https://doi.org/10.1016/j.atmosres.2024.107402). [(Open Access Postprint)](files/ATMOSRES_2024-107402.pdf)
 
