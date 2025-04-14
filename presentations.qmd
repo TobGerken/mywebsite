@@ -34,7 +34,7 @@ _La Rosa, B_; _**Burris, J.**_; Gerken, T: Understanding potential evapotranspir
 
 **Duan, Z**; _Agresto, J_; Bentley, M; Gerken, T.; Dudley, B: Analyzing Ground-lightning Dataset Using the Density Based Spatial Clustering of Applications with Noise (DBSCAN), 2024 IEEE International Performance, Computing, and Communications Conference, Orlando 22-24 November 2024
 
-**Gerken, T**; *Abbot, H; Lang, CA*; Bentley, M; Bonsal, D; Duan, Z; Way H: Validation and Sensitivity Testing of a Lightning Grouping Algorithm on Thunderstorm Climatologies (Poster): 28th Conference on Applied Climatology at the American Meteorological Society Annual Meeting, 28 January – 1 February 2024
+**Gerken, T**; *Abbot, H; Lang, CA*; Bentley, M; Bonsal, D; Duan, Z; Way H: Validation and Sensitivity Testing of a Lightning Grouping Algorithm on Thunderstorm Climatologies (Poster): 28th Conference on Applied Climatology at the American Meteorological Society Annual Meeting, 28 January – 1 February 2024 [[Available Online](./files/AMS_Poster_Gerken_2024.pdf)]
 
 **^Shaban, M**; Epstein, HE; Murillo, LFR; Gerken, T; Cho, L; Jull, MG; Nelson, M; Wylie, CD; Bradley, H; Nelson, L; Van Metre; E; Fallin, K: Spatiotemporal assessment of ground temperature hot and cold spots at urban sites in Utqiaġvik, Alaska (Poster), American Geophysical Union Fall Meeting, San Francisco: 11-15 December 2023 
 
