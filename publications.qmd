@@ -6,6 +6,8 @@ title: "Publications"
 
 (* Indicates co-supervised students;  *JMU Student*)
 
+**[In Review]** Gerken, T., Bentley, M., *Agresto, J.J.*, and Duan, Z.: Investigating the sensitivity of the cellsearch lightning event grouping method to spatial and temporal scale parameters, Theoretical and Applied Climatology, _In Review_, 2025
+
 **[In Review]** Gerken, T., Davis, K. J., Keller, K., and Feng, S.: Application of PRIM for understanding patterns in carbon dioxide model-observation differences, Atmospheric Chemistry and Physics, _In Review_, [Preprint: EGUsphere, https://doi.org/10.5194/egusphere-2025-341](https://doi.org/10.5194/egusphere-2025-341), 2025.
 
 **[40]** Sae-Jung, J., Bentley, M., **Gerken, T.**, and Duan, Z.: The Impact of Urban Particulate Matter on Lightning Frequency in Thunderstorms: A Case Study of the Bangkok Metropolitan Region, Earth Syst Environ, [Open Access: https://doi.org/10.1007/s41748-024-00474-1](https://doi.org/10.1007/s41748-024-00474-1), 2024.
