@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://TobGerken.github.io/mywebsite/presentations.html</loc>
-    <lastmod>2025-05-01T18:37:58.718Z</lastmod>
-  </url>
-  <url>
-    <loc>https://TobGerken.github.io/mywebsite/publications.html</loc>
-    <lastmod>2025-05-01T18:37:58.718Z</lastmod>
-  </url>
-  <url>
-    <loc>https://TobGerken.github.io/mywebsite/researchAd.html</loc>
-    <lastmod>2025-05-01T18:37:58.718Z</lastmod>
+    <loc>https://TobGerken.github.io/mywebsite/section1.html</loc>
+    <lastmod>2025-07-11T15:14:09.242Z</lastmod>
   </url>
   <url>
     <loc>https://TobGerken.github.io/mywebsite/teaching.html</loc>
-    <lastmod>2025-05-01T18:37:58.718Z</lastmod>
+    <lastmod>2025-07-11T15:14:09.242Z</lastmod>
   </url>
   <url>
-    <loc>https://TobGerken.github.io/mywebsite/section1.html</loc>
-    <lastmod>2025-05-01T18:37:58.718Z</lastmod>
+    <loc>https://TobGerken.github.io/mywebsite/presentations.html</loc>
+    <lastmod>2025-07-11T15:14:09.242Z</lastmod>
   </url>
   <url>
     <loc>https://TobGerken.github.io/mywebsite/index.html</loc>
-    <lastmod>2025-05-01T18:37:58.718Z</lastmod>
+    <lastmod>2025-07-11T15:14:09.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TobGerken.github.io/mywebsite/publications.html</loc>
+    <lastmod>2025-07-11T15:14:09.242Z</lastmod>
   </url>
 </urlset>
